@@ -1,6 +1,6 @@
 ## How to Set up the project
 
-- Create .env file if not exist into project's root.
+----->  Create .env file if not exist into project's root. <---
 - Run `composer install`
 - Run `php artisan key:generate`
 - Set up the DB configurations into `.env`
